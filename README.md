@@ -77,7 +77,7 @@ The demo videos shown in the session are not published here. The slides PDF repl
 
 **ALN Leadership Development & Coaching** is a service-disabled veteran-owned small business in North Carolina. We help leaders lead themselves, their people, and their organizations, using Positive Psychology, Positive Intelligence, Maxwell Leadership, and DISC.
 
-*Built on Service. Driven by Science.*
+*Authentic Leaders Navigate With Confidence.*
 
 <br clear="left">
 
