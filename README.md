@@ -29,7 +29,7 @@ Everything here is free to use. **No code is required** for any of the prompts.
 
 | Resource | What it is | Format |
 |---|---|---|
-| [Slides](slides/AI-Handles-the-Grind.pdf) | The full presentation, 21 slides | PDF |
+| [Slides](slides/AI-Handles-the-Grind.pdf) | The full presentation, 22 slides | PDF |
 | [Try This Monday handout](handout/Try-This-Monday.pdf) | Four prompts, six guardrails, and a worksheet on two printable pages | PDF, [HTML](handout/Try-This-Monday.html) |
 | [Prompts](prompts/) | Each prompt as its own page with a one-click copy box | Markdown |
 | [Guardrails](prompts/guardrails.md) | Six rules for using AI safely in a small business | Markdown |
