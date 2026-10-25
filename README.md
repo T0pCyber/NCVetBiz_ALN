@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="slides/AI-Handles-the-Grind.pdf"><img alt="Slides PDF" src="https://img.shields.io/badge/Slides-PDF-0E2841?style=for-the-badge&labelColor=C9A84C"></a>
-  <a href="handout/Try-This-Monday.pdf"><img alt="Handout PDF" src="https://img.shields.io/badge/Handout-PDF-0E2841?style=for-the-badge&labelColor=C9A84C"></a>
+  <a href="handout/Try-This-Monday.pdf"><img alt="Guide PDF" src="https://img.shields.io/badge/Guide-PDF-0E2841?style=for-the-badge&labelColor=C9A84C"></a>
   <a href="#the-four-prompts"><img alt="Prompts" src="https://img.shields.io/badge/Prompts-Copy%20%26%20Paste-0E2841?style=for-the-badge&labelColor=C9A84C"></a>
 </p>
 
@@ -30,7 +30,7 @@ Everything here is free to use. **No code is required** for any of the prompts.
 | Resource | What it is | Format |
 |---|---|---|
 | [Slides](slides/AI-Handles-the-Grind.pdf) | The full presentation, 22 slides | PDF |
-| [Try This Monday handout](handout/Try-This-Monday.pdf) | Four prompts, six guardrails, and a worksheet on two printable pages | PDF, [HTML](handout/Try-This-Monday.html) |
+| [Try This Monday guide](handout/Try-This-Monday.pdf) | Four prompts, six guardrails, and a worksheet on two printable pages | PDF, [HTML](handout/Try-This-Monday.html) |
 | [Prompts](prompts/) | Each prompt as its own page with a one-click copy box | Markdown |
 | [Guardrails](prompts/guardrails.md) | Six rules for using AI safely in a small business | Markdown |
 | [Ideal client worksheet](prompts/ideal-client-worksheet.md) | The four lines that make every other prompt better | Markdown |
@@ -90,4 +90,4 @@ The demo videos shown in the session are not published here. The slides PDF repl
 
 ---
 
-<sub>Prompts and handout content are shared under the [MIT License](LICENSE). Use them, adapt them, and share them with your team.</sub>
+<sub>Prompts and guide content are shared under the [MIT License](LICENSE). Use them, adapt them, and share them with your team.</sub>
